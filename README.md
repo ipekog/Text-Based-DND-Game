@@ -5,7 +5,7 @@ Text-Based Dungeons and Dragons Game[^1]
   
   - there are 4 music files[^2]
     1. for general ambiance
-    2. for enemhy combat
+    2. for enemy combat
     3. for mini boss combat
     4. for boss combat
     
